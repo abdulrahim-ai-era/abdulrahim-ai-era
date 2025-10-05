@@ -1,38 +1,22 @@
 <!-- Profile README for Abdul Rahim -->
 
 <h1 align="center">Hi 👋, I’m Abdul Rahim</h1>
-<h3 align="center">🎓 CS Student at NED University | 💡 AI Enthusiast | 🚀 Lifelong Learner</h3>
+<h3 align="center">🎓 CS Student at NED University | 💡 AI Enthusiast</h3>
 
 ---
 
 ### 👨‍💻 About Me
-- 🎓 *CS Undergraduate (NED ‘29)*  
-- Focused on *Python programming*  
-- Exploring *C language* & strengthening core CS fundamentals  
-- Diving into *Artificial Intelligence & Machine Learning*  
-- Motto: Curious mind, building future  
+- 🎓 Computer Science Undergraduate (NED University)  
+- Passionate about *Python* and exploring *C programming*  
+- Interested in the world of *Artificial Intelligence*  
+- I enjoy learning, experimenting, and creating with code  
 
 ---
 
 ### 🛠️ Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,c,vscode,github" />
 </p>
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdulrahim-ai-era&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrahim-ai-era&layout=compact&theme=tokyonight&langs_count=6&hide=html,css" height="160" />
-</p>
-
----
-
-### 📌 Current Focus
-- Problem-solving with *Python*  
-- Strengthening *C programming labs*  
-- Building foundations for *AI & ML projects*  
 
 ---
 
