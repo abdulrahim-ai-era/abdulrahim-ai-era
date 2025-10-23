@@ -5,7 +5,7 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 - 🎓 Computer Science Undergraduate (NED University)  
 - Passionate about *Python* and exploring *C programming*  
 - Interested in the world of *Artificial Intelligence*  
