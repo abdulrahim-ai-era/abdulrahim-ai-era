@@ -2,7 +2,6 @@
 🧠 About Me
 🎓 Studying Computer Science at NED University of Engineering & Technology (CSIT Dept, Batch 2025–2029), Karachi, Pakistan
 🤖 Focused on AI, with growing interests in Data Science, Cybersecurity, and Game Development
-👨‍🏫 Tutor Cambridge IGCSE & O Level Computer Science — I love breaking down complex CS concepts into beginner-friendly lessons
 🎥 Run Under The Leaves, a YouTube channel for cinematic nature & wildlife content (insects, spiders, plants, fungi)
 🕌 Record Quran recitations and produce audio using Bandlab
 🌱 Currently deep in personal branding, portfolio engineering, and 3D web experiences
